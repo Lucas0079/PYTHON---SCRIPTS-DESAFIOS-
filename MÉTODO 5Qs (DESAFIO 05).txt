@@ -1,0 +1,31 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+
+DESAFIO 05
+
+
+1. UM NÚMERO DO USUÁRIO
+
+2. EXIBIR PRO USUÁRIO O ANTECESSOR E O SUCESSO DESSE NÚMERO
+
+3. O VALOR DIGITADO PELO USUÁRIO TEM QUE SER DO TIPO INTEIRO
+
+4. QUE O PROGRAME INFORME PRO USUÁRIO QUAL É O ANTECESSOR E O SUCESSOR DO NÚMERO DIGITADO
+
+5. 1.O USUÁRIO INFORME UM NÚMERO INTEIRO
+   2.CRIAR UMA VARIÁVEL CHAMADA ANTECESSOR E FAZER ELA RECEBER A SUBTRAÇÃO DO NÚMERO DIGITADO POR 1
+   3.CRIAR UMA VARIÁVAL CHAMADA SUCESSOR E FAZER ELA RECEBER A SOMA DO NÚMERO DIGITADO POR 2
+   4.DEVO EXIBIR PRO USUÁRIO O NÚMERO DIGITADO POR ELE E SEU ANTECESSOR E SUCESSOR

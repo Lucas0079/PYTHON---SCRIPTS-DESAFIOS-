@@ -1,0 +1,32 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+
+DESAFIO 07
+
+1. DUAS NOTAS DO USUÁRIO
+
+2. DEVO SOMAR AS DUAS NOTAS E DEPOIS DIVIDIR PELA QUANTIDADE DE NOTAS E EXIBIR A MÉDIA PRO USUÁRIO 
+
+3. O VALOR DO INPUT DEVE SER CONVERTIDO EM FLOAT, NA OPERAÇÃO DA MÉDIA A SOMA DEVE OCORRER PRIMEIRO E DEPOIS A DIVISÃO E A MÉDIA DEVE SER
+EXIBIDA APENAS COM UMA CASA DECIMAL
+
+4. QUE O CÁLCULO DA MÉDIA OCORRA DE FORMA CORRETA E QUE A MÉDIA SEJA EXIBIDA PRO USUÁRIO CONFORME REQUISITOS
+
+5.
+	1.O USUÁRIO INFORMA A PRIMEIRA NOTA E ELA PRECISA SER ATRIBUIDA A VARIÁVEL CHAMADA N1
+	2.O USUÁRIO INFORMA A SEGUNDA NOTA E ELA PRECISA SER ATRIBUIDA A VARIÁVEL  CHAMADA N2
+	3.O SEGUINTE CÁLCULO DEVE OCORRER( (N1 + N2)/2) E ATRIBUÍDO A VARIÁVEL CHAMADA MÉDIA
+	4.A MÉDIA DEVE SER EXIBIDA PRO USUÁRIO

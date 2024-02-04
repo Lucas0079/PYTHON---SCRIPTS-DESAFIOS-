@@ -1,0 +1,31 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+DESAFIO 08
+
+1. UM VALOR EM METROS DO USUÁRIO
+
+2. O PROGRAMA DEVE CONVERTER O VALOR INFORMADO PELO USUÁRIO EM METROS PARA CENTÍMETROS E MILÍMETROS.
+   O SEGUINTE CÁLCULO DEVE SER FEITO: PARA MM( NÚMERO * 1000) E CM(NÚMERO*100)
+
+3.O INPUT DEVE SER CONVERTIDO EM TIPO FLOAT
+
+4. QUE O PROGRAMA REALIZE O CÁLCULO CORRETAMENTE E EXIBA PRO USUÁRIO
+
+5.
+	1.O VALOR QUE O USUÁRIO INFORMAR DEVE SER ARMAZENADO EM UMA VARIÁVEL
+	2.O VALOR DEVE SER CONVERTIDO EM MM MULTIPLICANDO ELE POR 1000 E EM CM MULTIPLICANDO ELE POR 100 
+	E O CÁLCULO DE MM ARMAZENADO NA VARIÁVEL MM E DE CM NA VARIÁVEL CM
+	3.OS VALORES DEVEM SER EXIBIDOS PRO USUÁRIO

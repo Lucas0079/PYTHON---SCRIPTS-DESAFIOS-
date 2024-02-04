@@ -1,0 +1,29 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+DESAFIO 09
+
+1. UM NÚMERO INTEIRO
+
+2. AO RECEBER O NÚMERO INTEIRO DO USUÁRIO O PROGRAMA DEVE EXIBIR A TABUADA DESSE NÚMERO, ELE SENDO MULTIPLICADO
+DO 1 AO 10, E CADA UMA DESSAS MULTIPLICAÇÕES DEVEM SER EXIBIDAS
+
+3. O NÚMERO DEVE SER INTEIRO
+
+4. O PROGRAMA DEVE EXIBIR A TABUADA DO NÚMERO INFORMADO
+
+5.
+	1.USUÁRIO INFORMA O NÚMERO E O NÚMERO É ARMAZENADO NA VARIÁVEL TABUADA
+	2.O PROGRAMA MULTIPLICA ESSE NÚMERO DO 1 AO 10 E EXIBI CADA UM DELES EM FORMA DE TABUADA

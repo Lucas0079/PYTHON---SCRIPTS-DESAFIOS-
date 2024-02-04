@@ -1,0 +1,32 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+DESAFIO 11
+
+	1.Os valores da largura e altura que o usuário vai fornecer
+	2.A variável chamada area vai ser criada e ela vai receber uma operação de multiplicação, o programa
+	vai multiplicar a largura pela altura, calculando a área da parede.Em seguida, a variável litros vai ser 
+	criada e uma operação de divisão vai ser atribuida a ela, onde o programa vai dividir a area por 2, pois
+	cada litro de tinta pinta uma area de 2 metros, com isso obtenho a quantidade tinta necessária para pintar
+	a parede. Em seguida o programa deverá exibir os dados informados pelo usuário, a área e a quantidade de
+	tinta necessária para pintar a parede.
+	3.O input deve ser do tipo float
+	4.Que o programa faça o cálculo corretamente e exiba as informações pro usuário
+	5.
+		1.USUÁRIO INFORMA A LARGURA E O VALOR É ARMAZENADO NA VARIÁVEL LARGURA
+		2.USUÁRIO INFORMA A ALTURA E O VALOR É ARMAZENADO NA VARIÁVEL ALTURA
+		3.A VARIÁVEL AREA É CRIADA E RECEBE A MULTIPLICAÇÃO DA LARGURA E ALTURA
+		4.A VARIÁVEL QUANTIDADE_TINTA E RECEBE A DIVISÃO DA AREA POR 2
+		5.PROGRAMA EXIBI A LARGURA E ALTURA DA PAREDE, A AREA E QUANTIDADE DE TINTA NECESSÁRIA PRA PINTA-LA

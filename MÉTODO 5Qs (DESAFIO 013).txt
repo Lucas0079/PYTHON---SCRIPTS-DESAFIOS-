@@ -1,0 +1,34 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+DESAFIO 013
+
+1.O SALÁRIO DO USUÁRIO
+
+2.O PROGRAMA DEVE ARMAZENAR O SALÁRIO DO USUÁRIO NA VARIÁVEL SALÁRIO,EM SEGUIDA UMA VARIÁVEL CHAMADA AUMENTO
+DEVE SER CRIADA E O SEGUINTE CÁLCULO DEVE SER ATRIBUÍDO A ELA: SALARIO*(15/100).APÓS ISSO, A VARIÁVEL CHAMADA
+AUMENTO_APLICADO DEVE SER CRIADA E NELA DEVE SER ATRIBUIDA O SEGUINTE CÁLCULO: SALARIO + AUMENTO.O PROGRAMA DEVE
+EXIBIR O SALÁRIO SEM E COM AUMENTO.
+
+3.O INPUT DEVE SER DO TIPO FLOAT E A O SALÁRIO DEVE SER EXIBIDO EM FORMA DE REAIS
+
+4. QUE O PROGRAMA FAÇA O CÁLCULO DE AUMENTO DO SALÁRIO CORRETAMENTE E QUE O SALÁRIO COM E SEM AUMENTO SEJA
+EXIBIDO
+
+5.
+	1.O USUÁRIO INFORMA O SEU SÁLARIO E ELE É ARMAZENADO NA VARIÁVEL SALÁRIO
+	2.A VARIÁVEL AUMENTO É CRIADA E NELA É ATRIBUÍDA O SEGUINTE CÁLCULO: SALARIO*(15/100)
+	3.A VARIÁVEL AUMENTO_APLICADO É CRIADA E NELA É ATRIBUÍDA O SEGUINTE CÁLCULO: SALARIO + AUMENTO
+	4.O SALÁRIO COM E SEM AUMENTO É EXIBIDO

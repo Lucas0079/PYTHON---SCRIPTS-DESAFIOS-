@@ -1,0 +1,32 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+
+1. UM ÂNGULO QUALQUER FORNECIDO PELO USUÁRIO
+
+2. O ÂNGULO FORNECIDO PELO USUÁRIO DEVE SER ARMAZENADO NA VARIÁVEL ANGULO E AS VARIÁVEL SENO, COSSENO E TANGENTE
+DEVEM SER CRIADAS COM OS SEGUINTES CÓDIGOS: SENO = math.sin(seno) COSSENO = math.cos(cosseno) TANGENTE = math.tan(tangente)
+NESSES CÓDIGOS TO UTILIZANDO UMA FUNÇÃO DA BIBLIOTECA MATH QUE CÁLCULA O SENO, COSSENO E TANGENTE COM BASE NOS 
+ÂNGULOS FORNECENIDOS PELO USUÁRIO
+3.O INPUT DEVE SER DO TIPO INT E O VALOR DO ÂNGULO DEVE SER CONVERTIDO EM RADIANOS
+4. QUE O PROGRAMA CALCULE CORRETAMENTE OS VALORS DO SENO, COSSENO E TANGENTE E QUE EXIBA O ÂNGULO FORNCECIDO
+PELO USUÁRIO E O SENO, COSSENO E TANGENTE CALCULADOS.
+5.
+	1.IMPORTAR A BIBLIOTECA MATH
+	2.ARMAZENAR O O VALOR DO INPUT DO USUÁRIO NA VARIÁVEL ANGULO
+	3.CRIA A VARIÁVEL SENO E ATRIBUIR O SEGUINTE CÓDIGO: math.sin(seno)
+	4.CRIAR A VARIÁVEL COSSENO E ATRIBUIR O SEGUINTE CÓDIGO: math.cos(cosseno)
+	5.CRIAR A VARIÁVEL TANGENTE E ATRIBUIR O SEGUINTE CÓDIGO: math.tan(tangente)
+	6.EXIBIR O  ÂNGULO, O SENO, COSSENO E TANGENTE PRO USUÁRIO

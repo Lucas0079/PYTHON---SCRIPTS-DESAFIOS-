@@ -1,0 +1,30 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+
+DESAFIO 20
+
+1.OS NOMES DOS ALUNOS
+2.OS NOMES DEVEM SER ATRIBUIDOS AS VARIÁVEIS NOME1, NOME2, NOME3 E NOME4. EM SEGUIDA UMA VARIÁVEL CHAMADA
+NOMES_LISTA DEVE SER CRIADA E UMA LISTA COM OS NOMES FORNECIDOS DEVEM SER ATRIBUÍDA A ELA. A BIBLIOTECA RANDOM
+DEVE SER USADA E O MÉTODO SHUFFLE DEVE SER CHAMADO NA LISTA, EMBARALHANDO ELA. DEPOIS EXIBIR A NOVA ORDEM DA LISTA
+3.OS INPUTS DEVEM SER DO TIPO STRING
+4.QUE O PROGRAMA EXIBIDA A NOVA ORDEM DA LISTA COM OS NOMES EMBARALHADOS
+5.
+	1. IMPORTAT A BIBLIOTECA RANDOM
+	2. CRIAS AS VARIÁVEIS COM OS NOMES NOME1,NOME2,NOME3 E NOME4. ATRIBUIR UM INPUT A ELAS
+	3. CRIAR A VARIÁVEL NOMES_LISTA QUE VAI CONTER A LISTA DE NOMES
+	4. UTILIZAR O MÉTODO RANDOM E CHAMAR O MÉTODO SHUFFLE PRA EMBARALHAR A LISTA
+	5. EIBIR A ORDEM DA LISTA GERADA

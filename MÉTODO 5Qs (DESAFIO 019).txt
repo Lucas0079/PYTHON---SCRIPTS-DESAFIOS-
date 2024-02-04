@@ -1,0 +1,31 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+DESAFIO 19
+
+
+1.OS NOMES DOS ALUNOS
+2.CADA UM DOS NOMES DEVEM SER INCLUÍDOS NAS VARIÁVEIS CHAMADAS ALUNO1, ALUNO2,ALUNO3 E ALUNO4. DEVE CRIAR UMA LISTA
+CONTENDO OS NOMES DOS ALUNOS EM UMA VARIÁVEL CHAMADA LISTA_ALUNOS. EM SEGUIDA DEVE UTILIZAR O MÉTODO DA BIBLIOTECA
+RANDOM CHAMADO CHOISE, QUE VAI PEGAR OS ITENS DENTRO DA LISTA E GERAR UM VALOR ALEATÓRIO DENTRE ELES. ENTÃO, O 
+PROGRAMA DEVE EXIBIR O NOME DO ALUNO SORTEADO PRO USUÁRIO
+3. OS INPUTS DEVEM SER DO TIPO STRING
+4. QUE O PROGRAMA SORTEI OS ALUNOS DENTRO DA LISTA E EXIBA O NOME DO ALUNO SORTEADO
+5.
+	1.IMPORTAR A BIBLIOTECA RANDOM
+	2.CRIAR AS VARIÁVEIS DOS NOMES DOS ALUNOS E ATRIBUIR UM INPUT A ELAS
+	3.CRIAR UMA LISTA DOS NOMES DOS ALUNOS CHAMADA LISTA_ALUNOS
+	4.CRIAR A VARIÁVEL ALUNO_SORTEADO E ATRIBUIR O SEGUINTE CÓDIGO: random.choice(lista)
+	5.EXIBIR O NOME DO ALUNO SORTEADO

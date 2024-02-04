@@ -1,0 +1,26 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+
+1. UM NÚMERO DECIMAL DO USUÁRIO
+2. COM O VALOR FORNECIDO PELO USUÁRIO O PROGRAMA DEVE IMPORTAR A BIBLIOTECA MATH QUE ME PERMITI UTILIZAR A
+FUNÇAO TRUNC QUE VAI EXCLUIR A PARTE DECIMAL DO NÚMERO E ELE DEVE ATRIBUIR ESSA OPERAÇÃO DE CONVERSÃO EM UMA VARIÁVEL
+3. O INPUT TEM QUEM SER DO TIPO FLOAT
+4. QUE O PROGRAMA EXCLUI A PARTE DECIMAL DO NÚMERO E EXIBA PRO USUÁRIO
+5.
+	1.O PROGRAMA PRECISA IMPORTAR A BIBLIOTECA MATH
+	2.USUÁRIO FORNECE O VALOR DECIMAL E ELE É ARMAZENADO NA VARIÁVEL NÚMERO
+	3.A VARIÁVEL NUMERO_QUEBRADO DEVE SER CRIADO E NELA DEVE SER ATRIBUIDA O CÓDIGO: math.trunc(numero)
+	4.O VALOR DECIMAL E O VALOR INTEIRO DEVE SER EXIBIDO PRO USUÁRIO

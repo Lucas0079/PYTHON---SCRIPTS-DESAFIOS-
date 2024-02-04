@@ -1,0 +1,33 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+
+DESAFIO 21
+
+
+1. UM ARQUIVO MP3
+
+2. DEVO IMPORTAR A BIBLIOTECA DO PYGAME E DEPOIS INICIAR, DEPOIS DE INICIAR CHAMAR OS MÉTODOS NECESSÁRIOS PRA 
+INICIAR A MÚSICA
+
+3. NENHUM
+
+4. QUE A MÚSICA IMPORTADA TOQUE
+
+5.
+	1. INICIAR O PYGAME COM O PYGAME.INIT()
+	2. ESPEFICIAR PRO PYGAME O ARQUIVO DE MÚSICA PYGAME.MIXER.MUSIC.LOAD('ARQUIVO')
+	3. DAR PLAY NA MÚSICA MIXER.MUSIC.PLAY()
+	4. ESPERAR QUE A MÚSICA ACABE PRA FINALIZAR O PROGRAMA PYGAME.EVENT.WAIT() COLOCAR INPUT ANTES(VAZIO)

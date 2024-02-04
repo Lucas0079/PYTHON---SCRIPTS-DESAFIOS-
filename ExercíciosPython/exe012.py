@@ -7,7 +7,7 @@ area = largura*altura
 quantidade_tinta = area/2
 
 print('A parede tem  {} x {}'.format(largura, altura))
-print('Sua área é {}'.format(area))
+print('Sua área é {}m²'.format(area))
 print('A quantidade de tinta necessária pra pinta-la é {} litros'.format(quantidade_tinta))
 
 

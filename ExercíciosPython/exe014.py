@@ -6,4 +6,4 @@ aumento = salario*(15/100)
 aumento_aplicado = salario + aumento
 
 print('Seu salário anterior era R${}'.format(salario))
-print('Seu salário com aumento é R${}'.format(aumento_aplicado))
+print('Seu salário com aumento é R${:.2f}'.format(aumento_aplicado))

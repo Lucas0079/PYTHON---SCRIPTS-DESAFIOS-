@@ -7,4 +7,4 @@ desconto_aplicado = valor_produto - valor_desconto
 
 print('O valor original do produto é R${}'.format(valor_produto))
 print('Foi aplicado um desconto de 5%')
-print('O valor com o desconto aplicado é R${}'.format(desconto_aplicado))
+print('O valor com o desconto aplicado é R${:.2f}'.format(desconto_aplicado))

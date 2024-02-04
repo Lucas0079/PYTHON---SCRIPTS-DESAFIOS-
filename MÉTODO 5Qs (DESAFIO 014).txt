@@ -1,0 +1,31 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+ 1. Quais são os dados de entrada necessários?
+ 2. O que devo fazer com estes dados?
+ 3. Quais são as restrições deste problema?
+ 4. Qual é o resultado esperado?
+ 5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+DESAFIO 014
+
+
+1.UM VALOR EM CELSIUS
+
+2.O PROGRAMA DEVE CONVERTER ESSE VALOR PARA FAHRENHEIT COM O SEGUINTE CÁLCULO: F = C*1.8 + 32. ESSA FÓRMULA
+DEVE SER ATRIBUÍDA A VARIÁVEL F
+
+3.O INPUT DEVE SER CONVERTIDO EM FLOAT
+
+4.QUE O PROGRAMA CONVERTA CORRETAMENTE O VALOR EM CELSIUS PARA FAHRENHEIT E EXIBA PRO USUÁRIO
+
+5.
+	1.USUÁRIO INFORMA O VALOR E ESSE VALOR É ARMAZENADO NA VARIÁVEL C
+	2.A VARIÁVEL F É CRIADA E O SEGUINTE CÁLCULO É ATRIBUÍDA A ELA: C*1.8 +32
+	3.O VALOR EM CELSIUS É EXIBIDO PRO USUÁRIO ASSIM COMO SEU VALOR CONVERTIDO EM FAHRENHEIT
